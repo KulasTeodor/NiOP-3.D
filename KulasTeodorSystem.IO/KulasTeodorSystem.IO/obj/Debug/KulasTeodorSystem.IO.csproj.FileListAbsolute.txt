@@ -1,0 +1,7 @@
+C:\Users\Učenik\Desktop\Teodor Kulas,3.D\KulasTeodorSystem.IO\KulasTeodorSystem.IO\bin\Debug\KulasTeodorSystem.IO.exe.config
+C:\Users\Učenik\Desktop\Teodor Kulas,3.D\KulasTeodorSystem.IO\KulasTeodorSystem.IO\bin\Debug\KulasTeodorSystem.IO.exe
+C:\Users\Učenik\Desktop\Teodor Kulas,3.D\KulasTeodorSystem.IO\KulasTeodorSystem.IO\bin\Debug\KulasTeodorSystem.IO.pdb
+C:\Users\Učenik\Desktop\Teodor Kulas,3.D\KulasTeodorSystem.IO\KulasTeodorSystem.IO\obj\Debug\KulasTeodorSystem.IO.csprojResolveAssemblyReference.cache
+C:\Users\Učenik\Desktop\Teodor Kulas,3.D\KulasTeodorSystem.IO\KulasTeodorSystem.IO\obj\Debug\KulasTeodorSystem.IO.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\Desktop\Teodor Kulas,3.D\KulasTeodorSystem.IO\KulasTeodorSystem.IO\obj\Debug\KulasTeodorSystem.IO.exe
+C:\Users\Učenik\Desktop\Teodor Kulas,3.D\KulasTeodorSystem.IO\KulasTeodorSystem.IO\obj\Debug\KulasTeodorSystem.IO.pdb
