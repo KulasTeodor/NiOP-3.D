@@ -1,0 +1,7 @@
+C:\Users\Učenik\Desktop\Teodor Kulas,3.D\KulasTeodorTimeSpanZadatak\KulasTeodorTimeSpanZadatak\bin\Debug\KulasTeodorTimeSpanZadatak.exe.config
+C:\Users\Učenik\Desktop\Teodor Kulas,3.D\KulasTeodorTimeSpanZadatak\KulasTeodorTimeSpanZadatak\bin\Debug\KulasTeodorTimeSpanZadatak.exe
+C:\Users\Učenik\Desktop\Teodor Kulas,3.D\KulasTeodorTimeSpanZadatak\KulasTeodorTimeSpanZadatak\bin\Debug\KulasTeodorTimeSpanZadatak.pdb
+C:\Users\Učenik\Desktop\Teodor Kulas,3.D\KulasTeodorTimeSpanZadatak\KulasTeodorTimeSpanZadatak\obj\Debug\KulasTeodorTimeSpanZadatak.csprojResolveAssemblyReference.cache
+C:\Users\Učenik\Desktop\Teodor Kulas,3.D\KulasTeodorTimeSpanZadatak\KulasTeodorTimeSpanZadatak\obj\Debug\KulasTeodorTimeSpanZadatak.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\Desktop\Teodor Kulas,3.D\KulasTeodorTimeSpanZadatak\KulasTeodorTimeSpanZadatak\obj\Debug\KulasTeodorTimeSpanZadatak.exe
+C:\Users\Učenik\Desktop\Teodor Kulas,3.D\KulasTeodorTimeSpanZadatak\KulasTeodorTimeSpanZadatak\obj\Debug\KulasTeodorTimeSpanZadatak.pdb
