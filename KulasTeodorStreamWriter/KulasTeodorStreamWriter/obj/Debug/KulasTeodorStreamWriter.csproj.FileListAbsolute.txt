@@ -1,0 +1,7 @@
+C:\Users\Vladimir\Desktop\KulasTeodorStreamWriter\KulasTeodorStreamWriter\bin\Debug\KulasTeodorStreamWriter.exe.config
+C:\Users\Vladimir\Desktop\KulasTeodorStreamWriter\KulasTeodorStreamWriter\bin\Debug\KulasTeodorStreamWriter.exe
+C:\Users\Vladimir\Desktop\KulasTeodorStreamWriter\KulasTeodorStreamWriter\bin\Debug\KulasTeodorStreamWriter.pdb
+C:\Users\Vladimir\Desktop\KulasTeodorStreamWriter\KulasTeodorStreamWriter\obj\Debug\KulasTeodorStreamWriter.csprojAssemblyReference.cache
+C:\Users\Vladimir\Desktop\KulasTeodorStreamWriter\KulasTeodorStreamWriter\obj\Debug\KulasTeodorStreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Desktop\KulasTeodorStreamWriter\KulasTeodorStreamWriter\obj\Debug\KulasTeodorStreamWriter.exe
+C:\Users\Vladimir\Desktop\KulasTeodorStreamWriter\KulasTeodorStreamWriter\obj\Debug\KulasTeodorStreamWriter.pdb
