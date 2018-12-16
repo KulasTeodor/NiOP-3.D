@@ -1,0 +1,7 @@
+C:\Users\Vladimir\Desktop\KulasTeodorKlasaPath\KulasTeodorKlasaPath\bin\Debug\KulasTeodorKlasaPath.exe.config
+C:\Users\Vladimir\Desktop\KulasTeodorKlasaPath\KulasTeodorKlasaPath\bin\Debug\KulasTeodorKlasaPath.exe
+C:\Users\Vladimir\Desktop\KulasTeodorKlasaPath\KulasTeodorKlasaPath\bin\Debug\KulasTeodorKlasaPath.pdb
+C:\Users\Vladimir\Desktop\KulasTeodorKlasaPath\KulasTeodorKlasaPath\obj\Debug\KulasTeodorKlasaPath.csprojAssemblyReference.cache
+C:\Users\Vladimir\Desktop\KulasTeodorKlasaPath\KulasTeodorKlasaPath\obj\Debug\KulasTeodorKlasaPath.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Desktop\KulasTeodorKlasaPath\KulasTeodorKlasaPath\obj\Debug\KulasTeodorKlasaPath.exe
+C:\Users\Vladimir\Desktop\KulasTeodorKlasaPath\KulasTeodorKlasaPath\obj\Debug\KulasTeodorKlasaPath.pdb
