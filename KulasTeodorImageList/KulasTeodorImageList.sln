@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KulasTeodorImageList", "KulasTeodorImageList\KulasTeodorImageList.csproj", "{1C98F66D-567F-492E-BCEB-43DAE1E4B3DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C98F66D-567F-492E-BCEB-43DAE1E4B3DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C98F66D-567F-492E-BCEB-43DAE1E4B3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C98F66D-567F-492E-BCEB-43DAE1E4B3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C98F66D-567F-492E-BCEB-43DAE1E4B3DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14C16B40-CC31-4B5A-BBF6-9C491B55A8CB}
+	EndGlobalSection
+EndGlobal

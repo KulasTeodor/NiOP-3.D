@@ -1,0 +1,10 @@
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorImageList\KulasTeodorImageList\bin\Debug\KulasTeodorImageList.exe.config
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorImageList\KulasTeodorImageList\bin\Debug\KulasTeodorImageList.exe
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorImageList\KulasTeodorImageList\bin\Debug\KulasTeodorImageList.pdb
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorImageList\KulasTeodorImageList\obj\Debug\KulasTeodorImageList.csprojAssemblyReference.cache
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorImageList\KulasTeodorImageList\obj\Debug\KulasTeodorImageList.Form1.resources
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorImageList\KulasTeodorImageList\obj\Debug\KulasTeodorImageList.Properties.Resources.resources
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorImageList\KulasTeodorImageList\obj\Debug\KulasTeodorImageList.csproj.GenerateResource.cache
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorImageList\KulasTeodorImageList\obj\Debug\KulasTeodorImageList.csproj.CoreCompileInputs.cache
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorImageList\KulasTeodorImageList\obj\Debug\KulasTeodorImageList.exe
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorImageList\KulasTeodorImageList\obj\Debug\KulasTeodorImageList.pdb
