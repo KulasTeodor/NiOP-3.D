@@ -1,0 +1,10 @@
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorTimeKomponenta\KulasTeodorTimeKomponenta\bin\Debug\KulasTeodorTimeKomponenta.exe.config
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorTimeKomponenta\KulasTeodorTimeKomponenta\bin\Debug\KulasTeodorTimeKomponenta.exe
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorTimeKomponenta\KulasTeodorTimeKomponenta\bin\Debug\KulasTeodorTimeKomponenta.pdb
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorTimeKomponenta\KulasTeodorTimeKomponenta\obj\Debug\KulasTeodorTimeKomponenta.csprojAssemblyReference.cache
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorTimeKomponenta\KulasTeodorTimeKomponenta\obj\Debug\KulasTeodorTimeKomponenta.Form1.resources
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorTimeKomponenta\KulasTeodorTimeKomponenta\obj\Debug\KulasTeodorTimeKomponenta.Properties.Resources.resources
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorTimeKomponenta\KulasTeodorTimeKomponenta\obj\Debug\KulasTeodorTimeKomponenta.csproj.GenerateResource.cache
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorTimeKomponenta\KulasTeodorTimeKomponenta\obj\Debug\KulasTeodorTimeKomponenta.csproj.CoreCompileInputs.cache
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorTimeKomponenta\KulasTeodorTimeKomponenta\obj\Debug\KulasTeodorTimeKomponenta.exe
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorTimeKomponenta\KulasTeodorTimeKomponenta\obj\Debug\KulasTeodorTimeKomponenta.pdb
