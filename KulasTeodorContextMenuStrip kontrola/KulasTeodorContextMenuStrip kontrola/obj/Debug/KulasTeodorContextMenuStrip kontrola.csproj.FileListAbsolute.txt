@@ -1,0 +1,10 @@
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorContextMenuStrip kontrola\KulasTeodorContextMenuStrip kontrola\bin\Debug\KulasTeodorContextMenuStrip kontrola.exe.config
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorContextMenuStrip kontrola\KulasTeodorContextMenuStrip kontrola\bin\Debug\KulasTeodorContextMenuStrip kontrola.exe
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorContextMenuStrip kontrola\KulasTeodorContextMenuStrip kontrola\bin\Debug\KulasTeodorContextMenuStrip kontrola.pdb
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorContextMenuStrip kontrola\KulasTeodorContextMenuStrip kontrola\obj\Debug\KulasTeodorContextMenuStrip kontrola.csprojAssemblyReference.cache
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorContextMenuStrip kontrola\KulasTeodorContextMenuStrip kontrola\obj\Debug\KulasTeodorContextMenuStrip_kontrola.Form1.resources
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorContextMenuStrip kontrola\KulasTeodorContextMenuStrip kontrola\obj\Debug\KulasTeodorContextMenuStrip_kontrola.Properties.Resources.resources
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorContextMenuStrip kontrola\KulasTeodorContextMenuStrip kontrola\obj\Debug\KulasTeodorContextMenuStrip kontrola.csproj.GenerateResource.cache
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorContextMenuStrip kontrola\KulasTeodorContextMenuStrip kontrola\obj\Debug\KulasTeodorContextMenuStrip kontrola.csproj.CoreCompileInputs.cache
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorContextMenuStrip kontrola\KulasTeodorContextMenuStrip kontrola\obj\Debug\KulasTeodorContextMenuStrip kontrola.exe
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorContextMenuStrip kontrola\KulasTeodorContextMenuStrip kontrola\obj\Debug\KulasTeodorContextMenuStrip kontrola.pdb
