@@ -1,0 +1,10 @@
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorPictureBoxKontrola\KulasTeodorPictureBoxKontrola\bin\Debug\KulasTeodorPictureBoxKontrola.exe.config
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorPictureBoxKontrola\KulasTeodorPictureBoxKontrola\bin\Debug\KulasTeodorPictureBoxKontrola.exe
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorPictureBoxKontrola\KulasTeodorPictureBoxKontrola\bin\Debug\KulasTeodorPictureBoxKontrola.pdb
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorPictureBoxKontrola\KulasTeodorPictureBoxKontrola\obj\Debug\KulasTeodorPictureBoxKontrola.csprojAssemblyReference.cache
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorPictureBoxKontrola\KulasTeodorPictureBoxKontrola\obj\Debug\KulasTeodorPictureBoxKontrola.Form1.resources
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorPictureBoxKontrola\KulasTeodorPictureBoxKontrola\obj\Debug\KulasTeodorPictureBoxKontrola.Properties.Resources.resources
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorPictureBoxKontrola\KulasTeodorPictureBoxKontrola\obj\Debug\KulasTeodorPictureBoxKontrola.csproj.GenerateResource.cache
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorPictureBoxKontrola\KulasTeodorPictureBoxKontrola\obj\Debug\KulasTeodorPictureBoxKontrola.csproj.CoreCompileInputs.cache
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorPictureBoxKontrola\KulasTeodorPictureBoxKontrola\obj\Debug\KulasTeodorPictureBoxKontrola.exe
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorPictureBoxKontrola\KulasTeodorPictureBoxKontrola\obj\Debug\KulasTeodorPictureBoxKontrola.pdb
