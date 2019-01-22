@@ -1,0 +1,10 @@
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorRichTextBoxKontrola\KulasTeodorRichTextBoxKontrola\bin\Debug\KulasTeodorRichTextBoxKontrola.exe.config
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorRichTextBoxKontrola\KulasTeodorRichTextBoxKontrola\bin\Debug\KulasTeodorRichTextBoxKontrola.exe
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorRichTextBoxKontrola\KulasTeodorRichTextBoxKontrola\bin\Debug\KulasTeodorRichTextBoxKontrola.pdb
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorRichTextBoxKontrola\KulasTeodorRichTextBoxKontrola\obj\Debug\KulasTeodorRichTextBoxKontrola.csprojAssemblyReference.cache
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorRichTextBoxKontrola\KulasTeodorRichTextBoxKontrola\obj\Debug\KulasTeodorRichTextBoxKontrola.Form1.resources
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorRichTextBoxKontrola\KulasTeodorRichTextBoxKontrola\obj\Debug\KulasTeodorRichTextBoxKontrola.Properties.Resources.resources
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorRichTextBoxKontrola\KulasTeodorRichTextBoxKontrola\obj\Debug\KulasTeodorRichTextBoxKontrola.csproj.GenerateResource.cache
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorRichTextBoxKontrola\KulasTeodorRichTextBoxKontrola\obj\Debug\KulasTeodorRichTextBoxKontrola.csproj.CoreCompileInputs.cache
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorRichTextBoxKontrola\KulasTeodorRichTextBoxKontrola\obj\Debug\KulasTeodorRichTextBoxKontrola.exe
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorRichTextBoxKontrola\KulasTeodorRichTextBoxKontrola\obj\Debug\KulasTeodorRichTextBoxKontrola.pdb
