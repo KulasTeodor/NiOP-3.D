@@ -1,0 +1,10 @@
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorMonthCalendarKontrola\KulasTeodorMonthCalendarKontrola\bin\Debug\KulasTeodorMonthCalendarKontrola.exe.config
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorMonthCalendarKontrola\KulasTeodorMonthCalendarKontrola\bin\Debug\KulasTeodorMonthCalendarKontrola.exe
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorMonthCalendarKontrola\KulasTeodorMonthCalendarKontrola\bin\Debug\KulasTeodorMonthCalendarKontrola.pdb
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorMonthCalendarKontrola\KulasTeodorMonthCalendarKontrola\obj\Debug\KulasTeodorMonthCalendarKontrola.csprojAssemblyReference.cache
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorMonthCalendarKontrola\KulasTeodorMonthCalendarKontrola\obj\Debug\KulasTeodorMonthCalendarKontrola.Form1.resources
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorMonthCalendarKontrola\KulasTeodorMonthCalendarKontrola\obj\Debug\KulasTeodorMonthCalendarKontrola.Properties.Resources.resources
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorMonthCalendarKontrola\KulasTeodorMonthCalendarKontrola\obj\Debug\KulasTeodorMonthCalendarKontrola.csproj.GenerateResource.cache
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorMonthCalendarKontrola\KulasTeodorMonthCalendarKontrola\obj\Debug\KulasTeodorMonthCalendarKontrola.csproj.CoreCompileInputs.cache
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorMonthCalendarKontrola\KulasTeodorMonthCalendarKontrola\obj\Debug\KulasTeodorMonthCalendarKontrola.exe
+C:\Users\Teo27\Desktop\Teo C sharp\KulasTeodorMonthCalendarKontrola\KulasTeodorMonthCalendarKontrola\obj\Debug\KulasTeodorMonthCalendarKontrola.pdb
