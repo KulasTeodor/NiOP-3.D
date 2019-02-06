@@ -1,0 +1,2 @@
+C:\Users\Ucenik\Desktop\teodorkulas\KulasTeodorKlaseIObjekt\KulasTeodorKlaseIObjekt\obj\Debug\KulasTeodorKlaseIObjekt.csprojResolveAssemblyReference.cache
+C:\Users\Ucenik\Desktop\teodorkulas\KulasTeodorKlaseIObjekt\KulasTeodorKlaseIObjekt\obj\Debug\KulasTeodorKlaseIObjekt.csproj.CoreCompileInputs.cache
