@@ -1,0 +1,7 @@
+C:\Users\Ucenik\Desktop\teodorkulas\KulasTeodorZadatakZaKraj\KulasTeodorZadatakZaKraj\bin\Debug\KulasTeodorZadatakZaKraj.exe.config
+C:\Users\Ucenik\Desktop\teodorkulas\KulasTeodorZadatakZaKraj\KulasTeodorZadatakZaKraj\bin\Debug\KulasTeodorZadatakZaKraj.exe
+C:\Users\Ucenik\Desktop\teodorkulas\KulasTeodorZadatakZaKraj\KulasTeodorZadatakZaKraj\bin\Debug\KulasTeodorZadatakZaKraj.pdb
+C:\Users\Ucenik\Desktop\teodorkulas\KulasTeodorZadatakZaKraj\KulasTeodorZadatakZaKraj\obj\Debug\KulasTeodorZadatakZaKraj.csprojResolveAssemblyReference.cache
+C:\Users\Ucenik\Desktop\teodorkulas\KulasTeodorZadatakZaKraj\KulasTeodorZadatakZaKraj\obj\Debug\KulasTeodorZadatakZaKraj.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Desktop\teodorkulas\KulasTeodorZadatakZaKraj\KulasTeodorZadatakZaKraj\obj\Debug\KulasTeodorZadatakZaKraj.exe
+C:\Users\Ucenik\Desktop\teodorkulas\KulasTeodorZadatakZaKraj\KulasTeodorZadatakZaKraj\obj\Debug\KulasTeodorZadatakZaKraj.pdb
